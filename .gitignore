@@ -1,0 +1,26 @@
+# For pyspark and Ipython:
+*.ipynb_checkpoints/
+*.log
+
+# Directory-based project format:
+.idea/
+
+# Optimus
+
+metastore_db/
+checkPointFolder/
+
+# Distribution / packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+__pycache__/
+
+# Spark-Package release
+*.zip
+
+__pycache__
+test.csv
+.cache
+.coverage*
