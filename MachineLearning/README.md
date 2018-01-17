@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning
 
 Machine learning is the hottest field in data science, and this track will get you started quickly.
 
