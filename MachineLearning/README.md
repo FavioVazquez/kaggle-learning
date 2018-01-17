@@ -10,7 +10,7 @@ So what I'm doing here is answering all the questions they ask for each level, a
 
 Any contribute notebook should be added with a PR and inside the folder contrib.
 
-## Notebooks:
+## Notebooks
 
 1. [How models work](http://nbviewer.jupyter.org/github/FavioVazquez/kaggle-learning/blob/master/MachineLearning/01_how_models_work.ipynb)
 
