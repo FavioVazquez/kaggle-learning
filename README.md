@@ -8,7 +8,7 @@ Repository for sharing the knowledge from the learning path of Kaggle Learning. 
 
 ## Contributions
 
-Add your notebook to the `contrib` folder inside every course, and be sure to chech the [template for creating a PR](https://github.com/FavioVazquez/kaggle-learning/blob/master/PULL_REQUEST_TEMPLATE.md).
+Add your notebook to the `contrib` folder inside every course, and be sure to check the [template for creating a PR](https://github.com/FavioVazquez/kaggle-learning/blob/master/PULL_REQUEST_TEMPLATE.md).
 
 
  # Principal developer and maintainer: 
