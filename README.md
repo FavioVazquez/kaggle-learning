@@ -19,4 +19,4 @@ Add your notebook to the `contrib` folder inside every course, and be sure to ch
  
  # Contributors:
  
- - You will be here :).
+ - [	katezelaya](https://github.com/katezelaya)
