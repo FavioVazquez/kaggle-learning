@@ -5,6 +5,7 @@ Repository for sharing the knowledge from the learning path of Kaggle Learning. 
 ## Contents 
 
 ### [Machine Learning](https://github.com/FavioVazquez/kaggle-learning/tree/master/MachineLearning)
+- #### [Contributions folder](https://github.com/FavioVazquez/kaggle-learning/tree/master/MachineLearning/contrib)
 
 ## Contributions
 
